@@ -1,7 +1,7 @@
 # 1º input string dia da semana
 # 2º input nro natual 0 a 6
 
-dia_compra = input(())
+dia_compra = input()
 prazo = int(input())
 
 if dia_compra == 'domingo':
