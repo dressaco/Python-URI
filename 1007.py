@@ -3,6 +3,6 @@ B = int(input())
 C = int(input())
 D = int(input())
 
-diferenca = A * B + C * D
+DIFERENCA = (A * B - C * D)
 
-print ('DIFERENCA =',diferenca)
+print(f'DIFERENCA = {DIFERENCA}')
